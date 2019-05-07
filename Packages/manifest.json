@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "com.unity.ads": "2.0.8",
-    "com.unity.analytics": "3.2.2",
+    "cn.capstones.legacy-framework": "file:../../LegacyFramework",
+    "cn.capstones.modsentry": "file:../../CapsModsEntry",
+    "cn.capstones.resmanager": "file:../../CapsResManager",
     "com.unity.collab-proxy": "1.2.15",
     "com.unity.package-manager-ui": "2.0.3",
     "com.unity.purchasing": "2.0.3",
@@ -36,6 +37,6 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "cn.capstones.modsentry": "file:../../CapsModsEntry"
-  }
+    "com.unity.ads": "2.0.8",
+    "com.unity.analytics": "3.2.2"  }
 }
