@@ -5,6 +5,7 @@
     "cn.capstones.resmanager": "file:../../CapsResManager",
     "cn.capstones.n.crossevent": "file:../../NativeCrossEvent",
     "cn.capstones.n.threadlocal": "file:../../NativeThreadLocal",
+    "cn.capstones.n.unitythreaddispatcher": "file:../../NativeUnityThreadDispatcher",
     "com.unity.collab-proxy": "1.2.15",
     "com.unity.package-manager-ui": "2.0.3",
     "com.unity.purchasing": "2.0.3",
