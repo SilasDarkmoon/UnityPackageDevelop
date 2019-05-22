@@ -8,6 +8,7 @@
     "cn.capstones.n.unitythreaddispatcher": "file:../../NativeUnityThreadDispatcher",
     "cn.capstones.reflect-helper": "file:../../ReflectHelper",
     "cn.capstones.lua": "file:../../CapsLua",
+    "cn.capstones.phfont": "file:../../CapsReplaceableFont",
     "com.unity.collab-proxy": "1.2.15",
     "com.unity.package-manager-ui": "2.0.3",
     "com.unity.purchasing": "2.0.3",
